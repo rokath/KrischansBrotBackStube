@@ -67,8 +67,9 @@
 
 * Das Brühstück dient der zusätzlichen Wasserbeigabe.
 * Die maximale Teigausbeute ist 170: 70g Wasser auf 100g Mehl.
+* Das Wasser besser wiegen und nicht nur mit einem Milliliter-Becher bemessen.
 * Wenn mehr Wasser genommen wird ist eine Brotform nötig, da sonst der Teig zerläuft (Kastenbrot).
-* DEr Teig ist sehr klebrig und das Werkzeug mit Teigresten sollte in Wasser gelagert werden und alsbald gereinigt werden, da getrockneter Brotteig sehr schwer zu entfernen ist. Auch eine Spülmaschine ist hier machtlos.
+* Der Teig ist sehr klebrig und das Werkzeug mit Teigresten sollte in Wasser gelagert werden und alsbald gereinigt werden, da getrockneter Brotteig sehr schwer zu entfernen ist. Auch eine Spülmaschine ist hier machtlos.
 
 ## Fotos
 
