@@ -40,17 +40,17 @@
 * Restsalz dazugeben und mischen
 * Mit kochendem Wasser die halbe Tasse auffüllen, verrühren und ca. 12 Stunden stehen lassen.
 
-## Brotteig vorbereiten
+## Brot vorbereiten
 
-* Nach 12 Stunden haben sich im angesetzten Sauerteig feine Bläschen gebildet und der Teig beginn ein wenig zusammenzufallen.
+* Nach 12 Stunden haben sich im angesetzten Sauerteig feine Bläschen gebildet und der Teig begann ein wenig zusammenzufallen.
 * 150g Anstellgut Hugo entnehmen für das nächste Brot.
 * 1000g Mehl dazugeben
 * Brühstück dazugeben
 * 550g 70°C heißes Wasser dazugeben
 * Mit der Rührmaschine gründlich verrühren.
-* Etwas Mehl auf die Arbeitsfläache streuen.
-* Teig mit dem Teigschaber aus der Schüssel lösen und als kompakten Haufen auf die Arbeitsflache legen.
-* Im 2 Teile trennen und diese durch Zusammenfalten und Drücken in Form bringen, Dabei darauf achten, dass kaum Mehl nach innen kommt, dafür aber außen haftet.
+* Etwas Mehl auf die Arbeitsfläche streuen.
+* Teig mit dem Teigschaber aus der Schüssel lösen und als kompakten Haufen auf die Arbeitsfläche legen.
+* Im 2 Teile trennen und diese durch Zusammenfalten und Drücken in Form bringen. Dabei darauf achten, dass kaum Mehl nach innen kommt, dafür aber außen haftet.
 * Die vorgeformten Brote in die Körbchen mit Tuch geben.
 * Etwa 2 Stunden ruhen lassen.
 * Der Brotteig bekommt allmählich Risse.
@@ -67,7 +67,7 @@
 
 * Das Brühstück dient der zusätzlichen Wasserbeigabe.
 * Die maximale Teigausbeute ist 170: 70g Wasser auf 100g Mehl.
-* Wenn mehr Wasser genommen wird ist eine Brotform nötig, da sonst der Teig zerläuft (Kastenbrot)
+* Wenn mehr Wasser genommen wird ist eine Brotform nötig, da sonst der Teig zerläuft (Kastenbrot).
 * DEr Teig ist sehr klebrig und das Werkzeug mit Teigresten sollte in Wasser gelagert werden und alsbald gereinigt werden, da getrockneter Brotteig sehr schwer zu entfernen ist. Auch eine Spülmaschine ist hier machtlos.
 
 ## Fotos
