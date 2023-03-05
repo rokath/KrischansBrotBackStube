@@ -70,6 +70,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 | -                     | -:        | -:        | -:        | -:        | -:        | :-                                                   |
 | Restmehl (2/3)        |     333g  |     500g  |     533g  |   ca.667g |    1000g  | in die Teigschüssel                                  |
 | Restsalz (2/3)        |       7g  |      10g  |      11g  |       13g |      20g  | in die Teigschüssel, falls nich bereits im Brühstück |
+| Brotgewürz (optional) |        g  |        g  |        g  |         g |        g  | in die Teigschüssel, falls nich bereits im Brühstück |
 | **70°C** Wasser       |     183g  |     275g  |     293g  |      367g |     550g  | in die Teigschüssel                                  |
 | Mischen (Mixer)       |      ~    |      ~    |      ~    |      ~    |     ~     | Danach sofort reinigen                               |
 
