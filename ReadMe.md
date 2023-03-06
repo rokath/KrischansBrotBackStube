@@ -41,7 +41,7 @@
 
 Hugo überlebt im Kühlschrank bis zu 2 Wochen. Wenn nicht gebacken wird, ca. alle 10 Tage 50% ersetzen mit untergemischtem Mehl und Wasser und etwas Salz entsprechend dem Mischungsverhältnis.
 
-## Sauerteig ansetzen (idealerweise am Vorabend)
+## Sauerteig ansetzen (idealerweise am Vorabend oder morgens)
 
 | Zutat                 | 1 Brot500 | 1 Brot750 | 1 Brot800 | 1 Brot1000| 2 Brote750| Info                        |
 | -                     | -:        | -:        | -:        | -:        | -:        | :-                          |
