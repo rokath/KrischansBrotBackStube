@@ -57,7 +57,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 ## Brühstück vorbereiten (optional um mehr Wasser im Teig zu binden)
 
 * Die gut getrockneten Brotkrümel möglichst fein vermahlen.
-* Optional das Restsalz dazugeben und mischen
+* Optional das Restsalz und Brotgewürz dazugeben und mischen
 * Mit kochendem Wasser die halbe Tasse auffüllen, verrühren und ca. 12 Stunden stehen lassen.
 
 ## Brot vorbereiten
