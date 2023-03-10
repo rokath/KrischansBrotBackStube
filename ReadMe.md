@@ -100,7 +100,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 * Das Wasser besser wiegen und nicht nur mit einem Milliliter-Becher bemessen.
 * Wenn mehr Wasser genommen wird ist eine Brotform nötig, da sonst der Teig zerläuft (Kastenbrot).
 * Der Teig ist sehr klebrig und das Werkzeug mit Teigresten sollte in Wasser gelagert und alsbald gereinigt werden, da getrockneter Brotteig sehr schwer zu entfernen ist. Auch eine Spülmaschine ist hier machtlos.
-* Die angegebenen Temperaturen und Zeiten, besonders für den Teig, sind Richtwere. Nach einigen Broten bekommt man dafür ein Gefühl.
+* Die angegebenen Temperaturen und Zeiten, besonders für den Teig, sind Richtwerte. Nach einigen Broten bekommt man dafür ein Gefühl.
 * Ein neuer Hugo lässt sich auch aus frischen Brotteigresten, etwas Mehl und Wasser mit ein paar Körnchen Salz gewinnen. Zum Verrühren eignet sich eine Gabel gut.
 * Wenn man Hugo aus dem Kühlschrank nimmt, sollte man ggf. die obere Schicht, die mit Luft in Berührung kam, entsorgen.
 
