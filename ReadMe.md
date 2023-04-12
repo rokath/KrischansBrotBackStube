@@ -143,3 +143,60 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 ![x](./ref/IMG_20230202_135651.jpg)
 
 [Rühren](./ref/VID_20230202_085440.mp4)
+
+
+## Белый хлеб 🍞 
+
+Мука: 500 г
+Соль: 8 г
+Дрожжи сухие (я использую Саф-момент): 2-3 г. 
+Вода - 300 г
+
+
+Замешиваю ~5 минут в планетарном миксере. Руками, наверное, получится минут 10.
+
+Расстойка 1 час. 
+
+Складывание. (Подцепить край теста, оттянуть, положить сверху, прижать, и так со всех сторон комка теста, то есть 5-8 раз). Перевернуть, оставить расстаиваться. 
+
+Потом эту операцию повторить 2-3 раза каждые полчаса. 
+
+Выложить тесто на поверхность, припыленную мукой. Разделить пополам. Каждую половину раскатать скалкой, свернуть в батон (типа рулета). Выложить оба батона на противень или в ёмкость для запекания (у меня утятница). Накрыть крышкой. 
+
+Расстоять от 30 минут до 1 часа. 
+
+Разогреть духовку до 220 градусов. Сбрызнуть верхнюю часть батонов водлй.
+
+Засунуть противень или утятницу под крышкой. Запекать от 20 до 30 минут, для первых опытов - проверять состояние хлеба. Потому что каждая духовка греет по-своему. 
+
+Вытащить готовый хлеб, дать остыть. 
+
+Постараться не сожрать сразу полбатона.
+
+## Weißbrot
+
+Mehl: 500 g
+Salz: 8 g
+Trockenhefe (ich verwende Saf-momentum): 2-3 г.
+Wasser: 300 g
+
+
+In einem Planetenmischer ~5 Minuten kneten. Mit den Händen würde es wahrscheinlich etwa 10 Minuten dauern.
+
+1 Stunde lang aufgehen lassen.
+
+Falten. (Den Rand des Teiges aufnehmen, wegziehen, darauf legen, andrücken, und so auf allen Seiten des Klumpens, also 5-8 mal). Umdrehen, gehen lassen.
+
+Dann diesen Vorgang 2-3 Mal alle halbe Stunde wiederholen.
+
+Den Teig auf einer bemehlten Fläche ausrollen. In zwei Hälften teilen. Jede Hälfte mit einem Nudelholz ausrollen und zu einem Laib (wie ein Brötchen) aufrollen. Beide Brote auf ein Backblech oder in eine Backform (ich habe eine Entenschale) legen. Mit einem Deckel abdecken.
+
+30 Minuten bis 1 Stunde gehen lassen.
+
+Den Backofen auf 220 Grad vorheizen. Die Oberseite der Brote mit Wasser beträufeln.
+
+Das Backblech oder die Ente unter einem Deckel verstauen. 20 bis 30 Minuten backen und dabei zum ersten Mal den Zustand des Brotes überprüfen. Denn jeder Ofen heizt anders.
+
+Das gebackene Brot herausnehmen und abkühlen lassen.
+
+Versuchen Sie nicht, einen halben Laib auf einmal zu essen.
