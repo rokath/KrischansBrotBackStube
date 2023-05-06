@@ -52,6 +52,7 @@ Hugo überlebt im Kühlschrank bis zu 2 Wochen. Wenn nicht gebacken wird, ca. al
 | Mischen (Mixer)       |      ~    |      ~    |      ~    |      ~    |     ~     | Danach sofort reinigen      |
 | Ruhezeit              |    ~12h   |    ~12h   |    ~12h   |    ~12h   |    ~12h   | Hängt von der Temperatur ab |
 
+Die Teigschüssel mit einem Tuch abdecken. 
 Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich auch.
 
 ## Brühstück vorbereiten (optional um mehr Wasser im Teig zu binden)
@@ -93,7 +94,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 * 20 Minuten bei 250 °C backen.
 * 35 Minuten bei 200 °C backen. Dabei ab und zu kurz Ofen öffen und die feuchte Luft entweichen lassen.
 
-## Erläuterungen
+## Hinweise 
 
 * Das Brühstück dient der zusätzlichen Wasserbeigabe.
 * Die maximale Teigausbeute ist 170: 70g Wasser auf 100g Mehl.
@@ -103,6 +104,10 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 * Die angegebenen Temperaturen und Zeiten, besonders für den Teig, sind Richtwerte. Nach einigen Broten bekommt man dafür ein Gefühl.
 * Ein neuer Hugo lässt sich auch aus frischen Brotteigresten, etwas Mehl und Wasser mit ein paar Körnchen Salz gewinnen. Zum Verrühren eignet sich eine Gabel gut.
 * Wenn man Hugo aus dem Kühlschrank nimmt, sollte man ggf. die obere Schicht, die mit Luft in Berührung kam, entsorgen.
+* Der neue Hugo kann auch vor der ersten 12-Stunden Ruhe, also sofort nach dem Einrühren entnommen werden.
+* Vergisst man den Hugo und das Brot ist schon geformt, kann man auch die Teigreste vom Schüsserrand für einen neuen Hugo nehmen. Diese lassen sich auch trocknen oder einfrieren als Start für einen neuen Hugo.
+* Alle Zeiten und Temperaturen sind Richtwerte. Soll der Teig schneller gehen, diesen abgedeckt in den leicht angewärmten Backofen stellen.
+* Es lassen sich auch zum Teil Sauerteigminis formen. Deren Backzeit ist signifikant kürzer, z.B. nur die ersten 25 Minuten drin lassen.
 
 ## Fotos
 
