@@ -17,27 +17,29 @@
 
 * Arbeitsfläche
 * Teigschüssel ausreichender Größe
-* Teigschaber
+* Teigschaber (optional)
 * Löffel
 * Wasserglas
-* Ruhekörbchen mit Tuch
+* Ruhekörbchen mit Tuch (optional)
 * etwas Mehl
-* Rührmaschine
-* Mixer
+* Mixer (kleine Küchenmaschine mit aufgesteckten Rührstäben)
+* Rührmaschine (kleine Küchenmaschine mit aufgesteckten Knethaken)
 * Backofen
 * Zeit
 * Thermometer (optional)
 * Waage (wichtig)
-* Wasserkocher und Wasser
+* warmes Wasser
 
 ## Zutatentabelle
 
 | Zutat                 | 1 Brot500 | 1 Brot750 | 1 Brot800 | 1 Brot1000| 2 Brote750| Info |
 | -                     | -:        | -:        | -:        | -:        | -:        | :-   |
-| Mehl                  | 500g      | 750g      | 800g      | 1000g     | 1500g     | Roggenmehl [Type 997 oder 1150](https://www.mein-mehl.de/mehlometer/roggenmehl/type-997-1150/) |
+| Mehl                  | 500g      | 750g      | 800g      | 1000g     | 1500g     | Roggenmehl [Type 997 oder 1150](https://www.mein-mehl.de/mehlometer/roggenmehl/type-997-1150/) (ca. 10% Weizenmehl erleichtern die Bläschenbildung) |
 | Salz                  |  10g      |  15g      |  16g      |  20g      |   30g     | (2% der Mehlmenge) [Mohnheimer Salzsauer](https://www.baeckerlatein.de/monheimer-salzsauer-verfahren/) |
 | Hugo                  |ca.50g     |ca.75g     |ca.80g     |ca.100g    |ca. 150g   | ca. 10% Anstellgut [Sauerteigansatz](https://www.sonachgefuehl.de/sauerteig-ansetzen-ist-kinderleicht/) |
 | Brotkrümel            | 1/8 Tasse | 1/4 Tasse | 1/4 Tasse | 1/4 Tasse | 1/2 Tasse | getrocknete und fein gemahlen (optional) |
+
+Brotgewürz oprional nach nach gewünschter Geschmacksnote.            
 
 Hugo überlebt im Kühlschrank bis zu 2 Wochen. Wenn nicht gebacken wird, ca. alle 10 Tage 50% ersetzen mit untergemischtem Mehl und Wasser und etwas Salz entsprechend dem Mischungsverhältnis.
 
@@ -52,6 +54,7 @@ Hugo überlebt im Kühlschrank bis zu 2 Wochen. Wenn nicht gebacken wird, ca. al
 | Mischen (Mixer)       |      ~    |      ~    |      ~    |      ~    |     ~     | Danach sofort reinigen      |
 | Ruhezeit              |    ~12h   |    ~12h   |    ~12h   |    ~12h   |    ~12h   | Hängt von der Temperatur ab |
 
+Nach Mischen kann man sofort etwa die gleiche Menge Hugo entnehmen und im Kühlschrank für das nächste Brot aufbewahren.
 Die Teigschüssel mit einem Tuch abdecken. 
 Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich auch.
 
@@ -64,8 +67,8 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 ## Brot vorbereiten
 
 * Nach 12 Stunden haben sich im angesetzten Sauerteig feine Bläschen gebildet und der Teig begann ein wenig zusammenzufallen.
-* Anstellgutmenge Hugo entnehmen für das nächste Brot.
-* Brühstück dazugeben.
+* Anstellgutmenge Hugo entnehmen für das nächste Brot, wenn nicht bereits erfolgt.
+* Brühstück dazugeben (optional).
 
 | Zutat                 | 1 Brot500 | 1 Brot750 | 1 Brot800 | 1 Brot1000| 2 Brote750| Info                                                 |
 | -                     | -:        | -:        | -:        | -:        | -:        | :-                                                   |
@@ -75,16 +78,22 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 | **70°C** Wasser       |     183g  |     275g  |     293g  |      367g |     550g  | in die Teigschüssel                                  |
 | Mischen (Mixer)       |      ~    |      ~    |      ~    |      ~    |     ~     | Danach sofort reinigen                               |
 
-Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich auch.
+Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht wahrscheinlich auch.
 
 * Etwas Mehl auf die Arbeitsfläche streuen.
+  * Die Arbeitsfläche kann gleich das Ofenblech sein.
+  * Man kann auch Backpapier und ggf. etwas Fett einsetzen. 
+* Die Hände mit etwas Mehl benetzen.
 * Teig mit dem Teigschaber aus der Schüssel lösen und als kompakten Haufen auf die Arbeitsfläche legen.
 * Ggf. in 2 Teile trennen und diese durch Zusammenfalten und Drücken in Form bringen. Dabei darauf achten, dass kaum Mehl nach innen kommt, dafür aber außen haftet.
-* Die vorgeformten Brote in die Körbchen mit Tuch geben.
-* Etwa 2 Stunden ruhen lassen.
+  * Es ist auch möglich zusätzlich ein paar Brötchen zu formen.
+  * Lieber das Brot etwas höher formen, da es beim Ruhen mehr in die Breite geht.
+* Die vorgeformten Brote in die Körbchen mit Tuch geben oder gleich auf das Ofenblech.
+* Etwa 2 Stunden bei Raumtemperatur ruhen lassen.
+  * Was u.U. praktischer ist: Das vorgeformte Brot z.B. auf dem Ofenblech ca. 12 Stunden kühl ruhen lassen. Dann kann man z.B. morgens oder abends den Teig ansetzen, dann abends oder morgens das Brot formen und dann am nächsten Tag morgens oder abends backen. 
 * Der Brotteig bekommt allmählich Risse.
 * Wenn man etwas länger, aber nicht zu lange, wartet, werden die Bläschen im Teig größer und es passt mehr Butter rein :-( :-).
-* Alternativ den Teig in eine Backform geben. Diese zuvor innen mit Mehl benetzten, besonders am Boden. Dies ergibt ein Kastenbrot und vergindert, dass ggf. der Teig im Ofen auseinanderläuft.
+* Alternativ den Teig in eine Backform geben. Diese zuvor innen mit Mehl benetzen oder einfetten, besonders am Boden. Dies ergibt ein Kastenbrot und verhindert, dass ggf. der Teig im Ofen auseinanderläuft.
 
 ## Backvorgang
 
@@ -93,6 +102,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 * Eine halbe Tasse Wasser unten in den Ofen geben.
 * 20 Minuten bei 250 °C backen.
 * 35 Minuten bei 200 °C backen. Dabei ab und zu kurz Ofen öffen und die feuchte Luft entweichen lassen.
+  * Wenn man Brötchen geformt hat, dan sind diese eher fertig, etwa nach 20 Minuten. Auch ein flach gewordenes Brot geht schneller. 
 
 ## Hinweise 
 
@@ -103,7 +113,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 * Der Teig ist sehr klebrig und das Werkzeug mit Teigresten sollte in Wasser gelagert und alsbald gereinigt werden, da getrockneter Brotteig sehr schwer zu entfernen ist. Auch eine Spülmaschine ist hier machtlos.
 * Die angegebenen Temperaturen und Zeiten, besonders für den Teig, sind Richtwerte. Nach einigen Broten bekommt man dafür ein Gefühl.
 * Ein neuer Hugo lässt sich auch aus frischen Brotteigresten, etwas Mehl und Wasser mit ein paar Körnchen Salz gewinnen. Zum Verrühren eignet sich eine Gabel gut.
-* Wenn man Hugo aus dem Kühlschrank nimmt, sollte man ggf. die obere Schicht, die mit Luft in Berührung kam, entsorgen.
+* Wenn man Hugo aus dem Kühlschrank nimmt, sollte man ggf. die obere Schicht, die mit Luft in Berührung kam, entsorgen. Dem kann man auch vorbeugen, indem man den Hugo von Zeit zu Zeit umrührt.
 * Der neue Hugo kann auch vor der ersten 12-Stunden Ruhe, also sofort nach dem Einrühren entnommen werden.
 * Vergisst man den Hugo und das Brot ist schon geformt, kann man auch die Teigreste vom Schüsserrand für einen neuen Hugo nehmen. Diese lassen sich auch trocknen oder einfrieren als Start für einen neuen Hugo.
 * Alle Zeiten und Temperaturen sind Richtwerte. Soll der Teig schneller gehen, diesen abgedeckt in den leicht angewärmten Backofen stellen.
