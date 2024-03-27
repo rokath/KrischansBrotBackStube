@@ -57,7 +57,7 @@ Hugo überlebt im Kühlschrank bis zu 2 Wochen. Wenn nicht gebacken wird, ca. al
 Wenn es schneller gehen soll, z.B. den Ofen 5 Minuten bei 50 Grad kurz einschalten und Teigschüssel in den Ofen stellen.
 Nach Mischen kann man sofort etwa die gleiche Menge Hugo entnehmen und im Kühlschrank für das nächste Brot aufbewahren.
 Die Teigschüssel mit einem Tuch abdecken. 
-Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich auch.
+Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht auch.
 
 ## Brühstück vorbereiten (optional, um mehr Wasser im Teig zu binden)
 
@@ -70,6 +70,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht zur Not wahrscheinlich a
 * Nach 12 Stunden haben sich im angesetzten Sauerteig feine Bläschen gebildet und der Teig begann ein wenig zusammenzufallen.
 * Anstellgutmenge Hugo entnehmen für das nächste Brot, wenn nicht bereits erfolgt.
 * Brühstück dazugeben (optional).
+* Brotgewürz hinein mischen.
 
 | Zutat                 | 1 Brot500 | 1 Brot750 | 1 Brot800 | 1 Brot1000| 2 Brote750| Info                                                 |
 | -                     | -:        | -:        | -:        | -:        | -:        | :-                                                   |
