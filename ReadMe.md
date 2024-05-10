@@ -217,3 +217,29 @@ Das Backblech oder die Ente unter einem Deckel verstauen. 20 bis 30 Minuten back
 Das gebackene Brot herausnehmen und abkühlen lassen.
 
 Versuchen Sie nicht, einen halben Laib auf einmal zu essen.
+
+
+## Spelt bread 🍞
+
+Flour: 500 g Salt: 8 g Dry yeast (I use Saf-moment): 2-3 г. Water: 300 g
+
+I knead for ~5 minutes in a planetary mixer. By hand, probably, it will take about 10 minutes.
+
+Proofing 1 hour.
+
+Folding. (Pick up the edge of the dough, pull away, put on top, press, and so on all sides of the lump of dough, that is 5-8 times). Turn over, leave to proof.
+
+Then repeat this operation 2-3 times every half an hour.
+
+Place the dough on a surface dusted with flour. Divide in half. Roll out each half with a rolling pin and roll into a loaf (like a roll). Place both loaves on a baking tray or in a baking dish (I have a duck pot). Cover with a lid.
+
+Let stand for 30 minutes to 1 hour.
+
+Preheat the oven to 220 degrees. Drizzle the top of the loaves with vodka.
+
+Put in a baking tray or duck tray under the lid. Bake for 20 to 30 minutes, for the first experiments - check the condition of the bread. Because each oven warms differently.
+
+Take the bread out, let it cool.
+
+Try not to eat half a loaf at once.
+
