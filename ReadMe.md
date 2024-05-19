@@ -8,6 +8,8 @@
 - [Backvorgang](#backvorgang)
 - [Erläuterungen](#erläuterungen)
 - [Fotos](#fotos)
+- [Hefeweißbrot](#weißbrot)
+- [Link zu weiteren Rezepten](https://www.ploetzblog.de/themenwelten)
 
 (Ein kleiner Brotback-Lehrgang)
 
