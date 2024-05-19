@@ -8,6 +8,7 @@
 - [Backvorgang](#backvorgang)
 - [Erläuterungen](#erläuterungen)
 - [Fotos](#fotos)
+- [Белый хлеб](#белыйхлеб)
 - [Hefeweißbrot](#weißbrot)
 - [Link zu weiteren Rezepten](https://www.ploetzblog.de/themenwelten)
 
