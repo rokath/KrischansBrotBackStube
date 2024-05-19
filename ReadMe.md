@@ -8,8 +8,9 @@
 - [Backvorgang](#backvorgang)
 - [Erläuterungen](#erläuterungen)
 - [Fotos](#fotos)
-- [Белый хлеб](#белыйхлеб)
+<!-- - [Белый хлеб](#белыйхлеб) -->
 - [Hefeweißbrot](#weißbrot)
+- [Spelt bread](#speltbread)
 - [Link zu weiteren Rezepten](https://www.ploetzblog.de/themenwelten)
 
 (Ein kleiner Brotback-Lehrgang)
