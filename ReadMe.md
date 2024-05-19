@@ -8,9 +8,9 @@
 - [Backvorgang](#backvorgang)
 - [Erläuterungen](#erläuterungen)
 - [Fotos](#fotos)
-- [Белый хлеб](#Белый-хлеб-🍞)
-- [Hefeweißbrot](#weißbrot-🍞)
-- [Spelt bread](#spelt-bread-🍞)
+- [🍞 Белый хлеб](#Белый-хлеб)
+- [🍞 Hefeweißbrot](#weißbrot)
+- [🍞 Spelt bread](#spelt-bread)
 - [Link zu weiteren Rezepten](https://www.ploetzblog.de/themenwelten)
 
 (Ein kleiner Brotback-Lehrgang)
@@ -166,7 +166,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht wahrscheinlich auch.
 [Rühren](./ref/VID_20230202_085440.mp4)
 
 
-## Белый хлеб 🍞 
+## Белый хлеб 
 
 Мука: 500 г
 Соль: 8 г
@@ -194,7 +194,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht wahrscheinlich auch.
 
 Постараться не сожрать сразу полбатона.
 
-## Weißbrot 🍞
+## Weißbrot
 
 Mehl: 500 g
 Salz: 8 g
@@ -223,7 +223,7 @@ Das gebackene Brot herausnehmen und abkühlen lassen.
 Versuchen Sie nicht, einen halben Laib auf einmal zu essen.
 
 
-## Spelt bread 🍞
+## Spelt bread
 
 Flour: 500 g Salt: 8 g Dry yeast (I use Saf-moment): 2-3 г. Water: 300 g
 
