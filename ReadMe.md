@@ -8,9 +8,9 @@
 - [Backvorgang](#backvorgang)
 - [Erläuterungen](#erläuterungen)
 - [Fotos](#fotos)
-- [Белый хлеб](#Белый-хлеб)
-- [Hefeweißbrot](#weißbrot)
-- [Spelt bread](#spelt-bread)
+- [Белый хлеб](#Белый-хлеб-🍞)
+- [Hefeweißbrot](#weißbrot-🍞)
+- [Spelt bread](#spelt-bread-🍞)
 - [Link zu weiteren Rezepten](https://www.ploetzblog.de/themenwelten)
 
 (Ein kleiner Brotback-Lehrgang)
@@ -194,7 +194,7 @@ Das Wasser darf nicht zu heiß sein. Kaltes Wasser geht wahrscheinlich auch.
 
 Постараться не сожрать сразу полбатона.
 
-## Weißbrot
+## Weißbrot 🍞
 
 Mehl: 500 g
 Salz: 8 g
