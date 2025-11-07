@@ -17,6 +17,38 @@
 
 ![x](./ref/IMG_20230202_132544.jpg)
 
+## Kurz
+
+### Generell
+
+* Mehr Hugo hält länger. Obere Schicht großzügig entsorgen.
+* Mehr Brot im Ofen -> geringerer Energieverbrauch pro Brot.
+* Wasseranteil 66-80 % der Mehlmasse
+  * z.B. 1,5 l auf 2 kg Mehl 
+  * Mehr Wasser im Teig macht Brote länger genießbar, da sie nicht so schnell trocknen. Allerdings läuft der Teig mehr auseinander und sollte dann in eine Form.
+* Besser Edelstahl statt beschichtete Form. Hauchdünn einfetten.
+* 2-3 % Salz, grobes Salz hat mehr Wirkung, kann also sparsamer verwendet werden.
+* Backmalz und Brotgewürz und Röstzwiwbeln nach Geschmack.
+* Untenstehende Tricks wie Brühstück, Vorheizen, Steinplatte, Einschießen sollen mehr Wasser ohne Form ermöglichen, da das Brot dann außen schnell fest wird und mehr in Form bleibt. 
+
+### Zubereitung 
+
+* Reichlich große Schüssel nehmen. 
+* 1 kg Mehl plus 1,4 l Leitungswasser plus Hugo verrühren.
+* Neuen Hugo abnehmen. Etwa 500g Glas zur Hälfte füllen und in der Kühlschrank. Deckel nicht fest verschließen.
+* Schüssel ca. 12 Stunden abgedeckt stehen lassen.
+* Auch wenn Schüssel fast randvoll ist - da ist sehr viel Gas drin.
+* 1 kg Mehl, 50g Salz, Backmalz, Gewürze dazukneten.
+* Der Teig ist feucht und klebrig geworden.
+* Hauchdunn eingebettete Formen gut zur Hälfte füllen.
+* Reichlich Mehl auf Platte und darin Minis formen.
+* Restmehl wieder in Tüte und fürs nächste Brot gleich zu Beginn mitverwenden.
+* Backblech ggf. hauchdünn einfetten oder Backpapier verwenden.
+* Brote 2-4 Stunden gehen lassen. Gleich im noch unbeheiztem Backofen. Ggf. Licht einschalten,  wenn es schneller gehen soll.
+* Ofen auf volle Temperatur stellen.  Die Minis brauchen nur 20-30 Minuten. Die Brote etwas länger. Einfach dann den Ofen ausschalten und noch nicht gleich öffnen.
+* Brotform abkühlen lassen und erst dann das Brot herauslösen.
+* Abgekühlt Brot in Papiergeld und ggf. mit zusätzlicher Plastetüte einfrieren.
+
 ## Werkzeug
 
 * Arbeitsfläche
