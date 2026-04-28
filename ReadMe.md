@@ -19,6 +19,23 @@
 
 ## Kurz
 
+### Noch anpassen
+
+- ggf. etwas Wasser vom Brühstück in Stückgare oder weglassen (experimentieren)
+- Teig Mischen Zielkonsistenz
+  - zäh-pastig
+  - klebt, aber:
+    - fließt nicht
+    - hält grob die Form
+- Stückgare 2-3 Stunden aber mehr beurteilen:
+  - sichtbare Volumenzunahme
+  - leichte Rissbildung
+  - Oberfläche wirkt „gespannt, aber nicht straff“
+- 250 °C → 10–15 min
+- dann: 200–210 °C und Dampf aktiv ablassen verbessert:
+  - Krustenbildung
+  - Ofentrieb
+
 ### Generell
 
 * Mehr Hugo hält länger. Obere Schicht großzügig entsorgen.
