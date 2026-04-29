@@ -17,6 +17,66 @@
 
 ![x](./ref/IMG_20230202_132544.jpg)
 
+## Notizen
+
+- Anstellgut aus Kühlschrank entnehmen, oberste Schicht/oberes Wasser entsorgen
+  - Wenn es sehr lange geruht hat, mit etwas Mehl anfüttern und noch 1 Tag warten, falls möglich
+- In großer Schüssel mischen (Stockgare):
+  - 550g Roggenmehl 997
+  - 550g Wasser
+  - Anstellgut
+- Neues Anstellgut im ca. 500 ml Glas ca. halbvoll mischen und wieder in den Kühlschrank:
+  - Aus der Mischung entnehmen (ca. 200g)
+  - Etwas Zusatzwasser (ca. 50g) 
+  - Das Anstellgut setzt sich später ab und das Wasser im Anstellgut bleibt oben und verhindert Schimmel. Damit kann das Anstellgut sehr lange aufbewahrt werden ohne zu verderben (z.B. ein Jahr).
+- Brühstück vorbereiten:
+  - 150g Vollkornmehl (Weizen oder Roggen)
+  - 30g Salz (max)
+  - 20g Brotgewürz
+  - 500g kochendes Wasser
+  - Brühstück sollte nicht heiß in den Teig, daher am einfachsten zusammen mit der Gare vorbereiten, denn es kann locker 24 Sunden warten 
+- Die Gare (Sauerteigmischung) 12-16 Stunden abgedeckt stehen lassen.
+- Brotteig (in die Stockare):
+  - 50g Wasser (Da dann ggf. Hefe reinrühren)
+  - 2-3g Frischhefe oder 1g Trockenhefe (optional): zuverlässiger Ofentrieb, toleranter gegenüber kleinen Timingfehlern
+  - Brühstück (etwas zerkrümeln)
+  - 450g Roggenmehl 997 
+  - 200g Weizen
+  - Manuell vormischen
+  - Nur solange mit Knethaken mischen bis Konsistenz gut ist
+  - optional ca. 1 Stunde Teigruhe (zum inneren Wasserausgleich)
+- Brot formen
+  - Backpapier auf Backblech
+  - Backpapier mit Mehl "abreiben" und Restmehl zurück in Tüte
+  - Reichlich Vollkornmehl auf die (saubere/trockene) Tischplatte
+  - Großen Teigklacks 1 im Mehlbett als Kugel/Oval formen und aufs Backpapier
+  - Großen Teigklacks 2 im Mehlbett als Kugel/Oval formen und aufs Backpapier
+  - Beide Brotkörper kreuzweise oben anritzen
+  - Randbegrenzung unter dem Backpapier (Stein/Holzklotz/Metallwinkel) damit die beiden hintereinander liegenden Brotlaibe nicht breitlaufen
+  - Mit Restteig kleine (ca. 50g) Minis formen (je nach gewünschter Anzahl und Größe) und auf zweites Backblech legen
+  - Minis einritzen
+  - Das Restmehl auf dem Tisch wieder in die Tüte
+- Stückgare:
+  - Sollte mindestens 2 Stunden dauern, aber auch nicht zu lange (< 4 Stunden)
+  - Stark temperaturabängig
+  - Die Laibe sollten gut aufgegengen sein
+- Backen:
+  - Am besten Ofen vorheizen (250 °C)
+  - Teigstützen entfernen
+  - Laibe mit Wasser einpinseln
+  - Etwas heißes Wasser in den Ofen für Dampf
+  - Nach ca. 15 Minuten Temperatur auf 200 °C reduzieren und Dampf ablassen
+  - Nach weiteren ca. 15 Minuten können die Minis raus, wenn sie schon knusprig sind
+  - Wasserdampf raus
+  - Brot noch ca. weitere 25 Minuten bei viellicht 180 °C backen
+  - Dann Ofen einfach ausschalten, aber geschlossen lassen
+  - Das Brot noch ein paar Minuten nachbacken lassen mit der Restwärme des Ofens
+  - Die Brotlaibe luftig abkühlen lassen
+- Teigausbeutenrechnung:  1100g Wasser / 1350g Mehl = 81,5 %
+  - Das ist relativ viel, aber feuchtes Brot trocknet nicht so schnell aus
+  - Gefahr dabei: Brot wird klitschig, deswegen sorgfältige Stückgare
+
+
 ## Kurz
 
 ### Generell
