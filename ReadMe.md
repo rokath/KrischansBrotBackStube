@@ -43,7 +43,7 @@
   - 450g Roggenmehl 997 
   - 200g Weizen
   - Manuell vormischen
-  - Nur solange mit Knethaken mischen bis Konsistenz gut ist
+  - Nur solange mit Knethaken mischen wie nötig. Zielkonsistenz: zäh-pastig, klebt, aber fließt nicht und hält grob die Form
   - optional ca. 1 Stunde Teigruhe (zum inneren Wasserausgleich)
 - Brot formen
   - Backpapier auf Backblech
@@ -57,17 +57,18 @@
   - Minis einritzen
   - Das Restmehl auf dem Tisch wieder in die Tüte
 - Stückgare:
-  - Sollte mindestens 2 Stunden dauern, aber auch nicht zu lange (< 4 Stunden)
-  - Stark temperaturabängig
-  - Die Laibe sollten gut aufgegengen sein
+  - Sollte 2-3 Stunden dauern, aber auch nicht zu lange (< 4 Stunden), stark temperaturabängig
+  - beurteilen: Die Laibe sollten gut aufgegengen sein
+    - sichtbare Volumenzunahme
+    - leichte Rissbildung
+    - Oberfläche wirkt „gespannt, aber nicht straff“
 - Backen:
   - Am besten Ofen vorheizen (250 °C)
   - Teigstützen entfernen
   - Laibe mit Wasser einpinseln
   - Etwas heißes Wasser in den Ofen für Dampf
-  - Nach ca. 15 Minuten Temperatur auf 200 °C reduzieren und Dampf ablassen
+  - Nach ca. 15 Minuten Temperatur auf ca. 205 °C reduzieren und Dampf ablassen. Das verbessert Krustenbildung & Ofentrieb.
   - Nach weiteren ca. 15 Minuten können die Minis raus, wenn sie schon knusprig sind
-  - Wasserdampf raus
   - Brot noch ca. weitere 25 Minuten bei viellicht 180 °C backen
   - Dann Ofen einfach ausschalten, aber geschlossen lassen
   - Das Brot noch ein paar Minuten nachbacken lassen mit der Restwärme des Ofens
@@ -75,26 +76,8 @@
 - Teigausbeutenrechnung:  1100g Wasser / 1350g Mehl = 81,5 %
   - Das ist relativ viel, aber feuchtes Brot trocknet nicht so schnell aus
   - Gefahr dabei: Brot wird klitschig, deswegen sorgfältige Stückgare
-
-
-## Kurz
-
-### Noch anpassen
-
-- ggf. etwas Wasser vom Brühstück in Stückgare oder weglassen (experimentieren)
-- Teig Mischen Zielkonsistenz
-  - zäh-pastig
-  - klebt, aber:
-    - fließt nicht
-    - hält grob die Form
-- Stückgare 2-3 Stunden aber mehr beurteilen:
-  - sichtbare Volumenzunahme
-  - leichte Rissbildung
-  - Oberfläche wirkt „gespannt, aber nicht straff“
-- 250 °C → 10–15 min
-- dann: 200–210 °C und Dampf aktiv ablassen verbessert:
-  - Krustenbildung
-  - Ofentrieb
+- Optimierungsoptionen:
+  - ggf. etwas Wasser vom Brühstück in Stückgare oder weglassen (experimentieren)
 
 ### Generell
 
