@@ -70,8 +70,7 @@
   - Nach ca. 15 Minuten Temperatur auf ca. 205 °C reduzieren und Dampf ablassen. Das verbessert Krustenbildung & Ofentrieb.
   - Nach weiteren ca. 15 Minuten können die Minis raus, wenn sie schon knusprig sind
   - Brot noch ca. weitere 25 Minuten bei viellicht 180 °C backen
-  - Dann Ofen einfach ausschalten, aber geschlossen lassen
-  - Das Brot noch ein paar Minuten nachbacken lassen mit der Restwärme des Ofens
+  - Ofenruhe: Ofen einfach ausschalten, aber geschlossen lassen. Das Brot noch nachbacken lassen mit der Restwärme des Ofens
   - Die Brotlaibe luftig abkühlen lassen
 - Teigausbeutenrechnung:  1100g Wasser / 1350g Mehl = 81,5 %
   - Das ist relativ viel, aber feuchtes Brot trocknet nicht so schnell aus
