@@ -33,7 +33,7 @@
   - 150g Vollkornmehl (Weizen oder Roggen)
   - 30g Salz (max)
   - 20g Brotgewürz
-  - 500g kochendes Wasser
+  - 400g kochendes Wasser
   - Brühstück sollte nicht heiß in den Teig, daher am einfachsten zusammen mit der Gare vorbereiten, denn es kann locker 24 Sunden warten 
 - Die Gare (Sauerteigmischung) 12-16 Stunden abgedeckt stehen lassen.
 - Brotteig (in die Stockare):
@@ -72,7 +72,7 @@
   - Brot noch ca. weitere 25 Minuten bei viellicht 180 °C backen
   - Ofenruhe: Ofen einfach ausschalten, aber geschlossen lassen. Das Brot noch nachbacken lassen mit der Restwärme des Ofens
   - Die Brotlaibe luftig abkühlen lassen
-- Teigausbeutenrechnung:  1100g Wasser / 1350g Mehl = 81,5 %
+- Teigausbeutenrechnung:  1100g Wasser / 1350g Mehl = 81,5 % -> 1000 /1350 = 74%
   - Das ist relativ viel, aber feuchtes Brot trocknet nicht so schnell aus
   - Gefahr dabei: Brot wird klitschig, deswegen sorgfältige Stückgare
 - Optimierungsoptionen:
